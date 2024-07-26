@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 
 ## 📫 How to reach me
-<div>
-  <a href="https://www.linkedin.com/in/alfredojoseneto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:alfredojoseneto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/alfredojoseneto/)](https://github.com/alfredojoseneto/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredojoseneto/)](https://www.linkedin.com/in/alfredojoseneto)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.alfredojoseneto@gmail.com)](mailto:alfredojoseneto@gmail.com)
