@@ -1,15 +1,15 @@
 ## Hi there 👋
-### I'm Alfredo Neto!
+## I'm Alfredo Neto!
 
-## ⚡️ A Few Quick Facts
-- 👩🏻‍💻📙✍🏻💡 Study is something enjoyable to me because I can improve myself a litte bit every day.
+## 📑 About me
+- 👩🏻‍💻📙 Study is something enjoyable to me because I can improve myself a litte bit every day.
 - 🔭 I’m currently working as Data Analyst / Engineering in healthcare
-  - 📊 I do some data analysis and
-  - 🤖 Build some automation process
 - 🌱 I’m currently learning Java and Spring Boot to develop tools to improve data collect and build API
-  - 🎯 My goal is to became a Softwate Developer using Java as main language 
+  - 🎯 My **goal** is to became a **Softwate Developer** using **Java** as main language 
 <!--
 **alfredojoseneto/alfredojoseneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+find emojis here:  https://emojidb.org/goals-emojis
 
 Here are some ideas to get you started:
 
