@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Alfredo Neto!
+## Hi there 👋, I'm Alfredo Neto!
 
 ## 📑 About me
 - 👩🏻‍💻📙 Study is something enjoyable to me because I can improve myself a litte bit every day.
