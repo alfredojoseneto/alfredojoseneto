@@ -3,8 +3,8 @@
 ## 📑 About me
 - 👩🏻‍💻📙 Study is something enjoyable to me because I can improve myself a litte bit every day.
 - 🔭 I’m currently working as Data Analyst / Engineering in healthcare.
-- 🌱 I’m currently learning Java and Spring Boot to develop tools to improve data collect and build API.
-  - 🎯 My **goal** is to became a **Softwate Developer** using **Java** as main language.
+- 🌱 I’m currently learning about Infra as a Code (IAC) and how to improve database performance.
+
 <!--
 **alfredojoseneto/alfredojoseneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
