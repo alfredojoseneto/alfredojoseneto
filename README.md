@@ -3,7 +3,7 @@
 ## 📑 About me
 - 👩🏻‍💻📙 Study is something enjoyable to me because I can improve myself a litte bit every day.
 - 🔭 I’m currently working as Data Analyst / Engineering in healthcare.
-- 🌱 I’m currently learning about Infra as a Code (IAC) and how to improve database performance.
+- 🌱 I’m currently learning about Infra as a Code (IAC) and how to improve database query performance.
 
 <!--
 **alfredojoseneto/alfredojoseneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
