@@ -4,7 +4,7 @@
 - 👩🏻‍💻📙 Study is something enjoyable to me because I can improve myself a litte bit every day.
 - 🔭 I’m currently working as Data Analyst / Engineering in healthcare.
 - 🌱 I’m currently learning about Infra as a Code (IAC), Data Warehouse and how to improve database query performance.
-- 🎯 My goal is become a DataOps / DataEngineer / Data Plataform Engineer.
+- 🎯 My goal is become a DataEngineer / DataOps / Data Plataform Engineer.
 
 <!--
 **alfredojoseneto/alfredojoseneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
