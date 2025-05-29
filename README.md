@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Alfredo Neto!
 
 ## 📑 About me
-- 👩🏻‍💻📙 Study is something enjoyable to me because I can improve myself a litte bit every day.
+- 👩🏻‍💻📙 Study and learn is my daily driver because allows me to improve myself a litte bit every day.
 - 🔭 I’m currently working as Data Analyst / Engineering in healthcare.
 - 🌱 I’m currently learning about Infra as a Code (IAC), Data Warehouse and how to improve database query performance.
 - 🎯 My goal is become a DataEngineer / DataOps / Data Plataform Engineer.
