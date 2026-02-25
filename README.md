@@ -2,7 +2,7 @@
 
 ## 📑 About me
 - 👩🏻‍💻📙 Study and learn something new is my daily driver because allows me to improve myself a litte bit every day.
-- 🔭 I’m currently working as Data Analyst / Engineering in healthcare.
+- 🔭 I’m currently working as Data Analyst / Engineer in healthcare.
 - 🌱 I’m currently learning about Infra as a Code (IAC), Data Warehouse and how to improve database query performance.
 - 🎯 My goal is became a DataEngineer / DataOps / Data Plataform Engineer.
 
