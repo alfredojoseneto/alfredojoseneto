@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Alfredo Neto!
 
 ## 📑 About me
-- 👩🏻‍💻📙 Study and learn something new is my daily driver because allows me to improve myself a litte bit every day.
-- 🔭 I’m currently working as Data Engineer in healthcare.
-- 🌱 I’m currently learning about Infra as a Code (IAC), Data Warehouse, Data Lake and how to improve database query performance.
+- 👩🏻‍💻📙🌱 Study and learn something is my daily driver.
+- 🔭 I’m currently working as Data Engineer in Healthcare.
 - 🎯 My goal is became a DataEngineer that can handle DataOps, DataPlatform and DataArchitect situations.
 
 <!--
@@ -12,7 +11,7 @@
 find emojis here:  https://emojidb.org/goals-emojis
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning about Infra as a Code (IAC), Data Warehouse, Data Lake and how to improve database query performance.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
